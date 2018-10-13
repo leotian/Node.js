@@ -8,35 +8,31 @@
 
 ## 目录
 
-### 常用基础模块
+#### 常用基础模块
 
-- #### fs
+- fs
+- path
+- http
+- url
+- crypto
 
-- #### path
+#### 框架
 
-- #### http
+- express
 
-- #### url
+- koa
 
-- #### crypto
+- egg
 
-### 框架
+#### 应用
 
-- #### express
+- proxy
 
-- #### koa
+#### 其他
 
-- #### egg
+- CommonJS规范
 
-### 应用
-
-- #### proxy
-
-### 其他
-
-- #### CommonJS规范
-
-- #### npm模块管理器
+- npm模块管理器
 
 
 
